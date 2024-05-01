@@ -1,6 +1,4 @@
 ==## ToDo ##==
 
-/- Research methods for audio analysis
-/- Write out considerations (what can go wrong, why could a model misinterpret data?)
-/- Set up Haskell environment (Using Cabal?)
-/- Write 400~500 word clarification of our plan??
+/- Try setting up CMKD in python
+/- Try reaching Yuan Gong
